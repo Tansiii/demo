@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boot-admin" />
+        <module name="army-service" />
+        <module name="eureka-server" />
+        <module name="config-server" />
+        <module name="person-service" />
+        <module name="edge-service" />
+        <module name="basic-security" />
+        <module name="oauth-security" />
+        <module name="hystrix-dashboard" />
+        <module name="person-service2" />
+        <module name="config-client" />
+        <module name="search-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="army-service" target="1.8" />
+      <module name="basic-security" target="1.8" />
+      <module name="boot-admin" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="edge-service" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
+      <module name="oauth-security" target="1.8" />
+      <module name="person-service" target="1.8" />
+      <module name="person-service (1)" target="1.8" />
+      <module name="person-service1" target="1.8" />
+      <module name="person-service2" target="1.8" />
+      <module name="search-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="army-service" options="-parameters" />
+      <module name="basic-security" options="-parameters" />
+      <module name="boot-admin" options="-parameters" />
+      <module name="config-client" options="-parameters" />
+      <module name="config-server" options="-parameters" />
+      <module name="edge-service" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="hystrix-dashboard" options="-parameters" />
+      <module name="oauth-security" options="-parameters" />
+      <module name="person-service" options="-parameters" />
+      <module name="person-service (1)" options="-parameters" />
+      <module name="person-service2" options="-parameters" />
+      <module name="search-service" options="-parameters" />
+    </option>
+  </component>
+</project>

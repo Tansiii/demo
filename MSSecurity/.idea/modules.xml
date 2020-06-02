@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/army-service/army-service.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/army-service/army-service.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/basic-security/basic-security.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/basic-security/basic-security.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/boot-admin/boot-admin.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/boot-admin/boot-admin.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/config-client/config-client.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/config-client/config-client.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/config-server/config-server.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/config-server/config-server.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/edge-service/edge-service.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/edge-service/edge-service.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/eureka-server/eureka-server.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/eureka-server/eureka-server.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/hystrix-dashboard/hystrix-dashboard.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/hystrix-dashboard/hystrix-dashboard.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/oauth-security/oauth-security.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/oauth-security/oauth-security.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/person-service/person-service.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/person-service/person-service.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/person-service2/person-service2.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/person-service2/person-service2.iml" />
+      <module fileurl="file://D:/Tanushree data/StudyInterview/Udemy/New folder/search-service/search-service.iml" filepath="D:/Tanushree data/StudyInterview/Udemy/New folder/search-service/search-service.iml" />
+    </modules>
+  </component>
+</project>

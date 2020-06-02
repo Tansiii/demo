@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/basic-security/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/oauth-security/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/config-client/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/config-server/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/eureka-server/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/army-service/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/edge-service/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/person-service/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/hystrix-dashboard/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/person-service1/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/person-service2/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/boot-admin/pom.xml" />
+        <option value="D:/Tanushree data/StudyInterview/Udemy/New folder/search-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://e2804f05-5315-4fc6-a121-c522a6c26470" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
